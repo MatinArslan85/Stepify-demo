@@ -1,0 +1,5 @@
+{
+  "name": "Stepify",
+  "description": "Move-to-Earn platforması. Yeriyərək coin qazan və xərclə.",
+  "requestFramePermissions": ["geolocation"]
+}
